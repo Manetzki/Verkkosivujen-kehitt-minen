@@ -196,4 +196,11 @@ iframe{
 }
 .col{
     text-align: center;
+    font-size: 14px;
+    margin: 8em;
+    padding:8em;
+}
+.container5{
+    background-image: url("https://www.osktools.com/cdn/shop/files/osk_tools_wallpaper.jpg?v=1715334197&width=1500");
+    background-size: cover;
 }
