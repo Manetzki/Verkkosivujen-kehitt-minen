@@ -168,6 +168,10 @@ footer a:hover {
     transform: scale(1.05); /* Hieno efekt */
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Hieno efekt */
 }
+.container2{
+    transition: color 0.3s ease; /* Hieno siirtymä */
+}
+
 
 .box1 h3, .box2 h3 {
     margin-top: 0;
@@ -186,6 +190,7 @@ iframe{
     text-align: center;
     padding: 10px;
     margin: 50px;
+    padding: 10px;
 }
 .container{
     padding: 80px;
@@ -203,4 +208,7 @@ iframe{
 .container5{
     background-image: url("https://www.osktools.com/cdn/shop/files/osk_tools_wallpaper.jpg?v=1715334197&width=1500");
     background-size: cover;
+}
+.border{
+   padding: 10px; 
 }
